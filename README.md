@@ -24,7 +24,7 @@ Set-up Instructions: To Be Define
 Current limitations:
 
     No Authentication server use, only a simple check of Client ID and Secret ID
-    Only one user
-    No catach Error for the moment
+    Only one user supported
+    No catch error for the moment
     No friednfly UI
     
