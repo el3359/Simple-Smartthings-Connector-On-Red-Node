@@ -8,7 +8,7 @@ It's a base for a developement: in my case, it's to connect my Texecom Alarm to 
 
 For security purporse and because you need to expose your Node Red on Internet, you need:
 - Set User/Password on your Node Red
-- use SSL 
+- use SSL on Node Red or with a reverse proxy
 - IP Filter if you can
 
 Next step:
