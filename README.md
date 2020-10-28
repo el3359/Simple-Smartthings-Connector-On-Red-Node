@@ -6,8 +6,6 @@ This is a simple cloud-to-cloud connection between Node Red devices and SmartThi
 
 It's a base for a developement: in my case, it's to connect my Texecom Alarm to Smartthings
 
-Set-up Instructions: See the ReadMe in the connector folder
-
 For security purporse and because you need to expose your Node Red on Internet, you need:
 - Set User/Password on your Node Red
 - use SSL 
@@ -21,7 +19,7 @@ Next step:
 
 Any Help are Welcome to help me to finish this project.
 
-
+Set-up Instructions: To Be Define
 
 Current limitations:
 
